@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StShAzzy
 - 👀 I’m interested in modding and coding
 - 🌱 I’m currently learning sourcepawn
-- 💞️ I’m looking to collaborate on sound projects
+- 💞️ I’m looking to collaborate on sound projects and SourceMod plugins
 - 📫 How to reach me: Raphtalia Dreemurr#1832
 
 <!---
