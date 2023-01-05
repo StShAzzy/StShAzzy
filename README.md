@@ -2,7 +2,7 @@
 - 👀 I’m interested in modding and coding
 - 🌱 I’m currently learning SourcePawn
 - 💞️ I’m looking to collaborate on sound projects and SourceMod plugins
-- 📫 How to reach me: Raphtalia Dreemurr#1832
+- 📫 How to reach me: Eri Dreemurr#1832
 
 <!---
 StShAzzy/StShAzzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
