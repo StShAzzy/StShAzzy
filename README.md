@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StShAzzy
 - 👀 I’m interested in modding and coding
 - 🌱 I’m currently learning SourcePawn
-- 💞️ I’m looking to collaborate on sound projects and SourceMod plugins
+- 💞️ I’m currently contributing to ServerDosBrothers
 - 📫 How to reach me: Eri Dreemurr#1832
 
 <!---
