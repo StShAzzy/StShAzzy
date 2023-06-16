@@ -2,7 +2,7 @@
 - 👀 I’m interested in modding and coding
 - 🌱 I’m currently learning SourcePawn
 - 💞️ I’m currently contributing to ServerDosBrothers
-- 📫 How to reach me: Eri Dreemurr#1832
+- 📫 How to reach me (discord): eridreemurr 
 
 <!---
 StShAzzy/StShAzzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
