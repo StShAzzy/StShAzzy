@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StShAzzy
+- 👋 Hi, I’m Eri Dreemurr A.K.A StShAzzy A.K.A many other names i won't name here
 - 👀 I’m interested in modding and coding
 - 🌱 I’m currently learning SourcePawn
 - 💞️ I’m currently contributing to ServerDosBrothers
