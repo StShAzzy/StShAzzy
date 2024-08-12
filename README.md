@@ -1,8 +1,8 @@
 - 👋 Hello, I’m Eri Dreemurr A.K.A StShEri A.K.A many other names i won't name here
-- 👀 Average person who knows computer stuff, coding, networking, memory, and some random stuff
-- 🌱 I code in SourcePawn most of the time, but i also know other languages
-- 💞️ I’m currently contributing to ServerDosBrothers
-- 📫 Reach me at the Discord: eridreemurr 
+- Average person who knows computer stuff, coding, networking, memory, and some random stuff
+- I code in SourcePawn most of the time, but i also know other languages
+- I’m currently contributing to ServerDosBrothers
+- Reach me at the Discord: eridreemurr 
 - I enjoy coding and learning coding related things, recently been learning how to use Ghidra for reverse engineering 
 
 - Treat this as you wish
