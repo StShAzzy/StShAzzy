@@ -1,5 +1,5 @@
 # Treat this as you wish
-- 👋 Hello, I’m Eri Dreemurr A.K.A StShEri A.K.A many other names i won't name here
+### 👋 Hello, I’m Eri Dreemurr A.K.A StShEri A.K.A many other names i won't name here
 - Average person who knows computer stuff, coding, networking, memory, and some random stuff
 - I code in SourcePawn most of the time, but i also know other languages
 - I’m currently contributing to [ServerDosBrothers](https://github.com/ServerDosBrothers)
